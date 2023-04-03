@@ -16,7 +16,7 @@ Using a library called `pdf.js-extract` (based off of Mozilla's `pdf.js`), I wro
     "yMoE": 1.5 // give or take 1.5 pixels from the y-position
 },
 ```
-This was done for all *At a Glance* documents from 2017-2018 to 2021-2022, the years in which MCPS has reported scores from administrations of [the new SAT](https://newsroom.collegeboard.org/one-year-first-administration-march-2016-students-say-new-sat-makes-it-easier-show-their-best-work) (400-1600 point scale). The documents have not been included in this repository, but my own config file has.
+This was done for all *At a Glance* documents from 2017-2018 to 2021-2022, the years in which MCPS has reported scores from administrations of [the New SAT](https://newsroom.collegeboard.org/one-year-first-administration-march-2016-students-say-new-sat-makes-it-easier-show-their-best-work) (400-1600 point scale). The documents have not been included in this repository, but my own config file has.
 
 ## The Results
 
@@ -127,8 +127,8 @@ This was done for all *At a Glance* documents from 2017-2018 to 2021-2022, the y
 ## Conclusions
 While using a singular dataset obviously isn't enough information to make a broad assertion, I think these findings strongly correlate to what many of us have already been suspecting. During virtual learning, many schools reported a decline in SAT scores from the previous year, and **every** school reported an increase in scores the year after in-person learning resumed.
 
-<center><a href="https://user-images.githubusercontent.com/45981228/229513229-1b9810b1-89fe-47ed-9839-8ae79af4074a.svg"><img width="500" src="https://user-images.githubusercontent.com/45981228/229513229-1b9810b1-89fe-47ed-9839-8ae79af4074a.svg"></a><figcaption>All high schools (anonymously)</figcaption></a></center><br>
+<br><br><a href="https://user-images.githubusercontent.com/45981228/229513229-1b9810b1-89fe-47ed-9839-8ae79af4074a.svg"><img align="center" width="500" src="https://user-images.githubusercontent.com/45981228/229513229-1b9810b1-89fe-47ed-9839-8ae79af4074a.svg"></a><br><em align="center">All high schools (anonymously)</em><br><br>
 
- To answer my original question, I don't believe that virtual learning was an adaquete substitute to in-person learning, however it could have been a lot worse. In my opinion, MCPS made the right call to switch back to in-person learning after just one year of virtual learning. The immediate rebound of the rate of scores per year proves that no irrevocable damage was done. Although the data is limited, an inference that could be made based on the hypothesis is that scores will continue to increase beyond or stagnate around the values of the 2021-2022 school year, but only time will tell for sure.
+ To answer my original question, I don't believe that virtual learning was an adaquete substitute to in-person learning. However, it could have been a lot worse; in my opinion, MCPS made the right call to switch back to in-person learning after just one year of virtual learning. The immediate rebound of the rate of scores per year proves that no irrevocable damage was done. Although the data here is limited, an inference that could be made based on this hypothesis is that scores will continue to increase beyond or stagnate around the values of the 2021-2022 school year, but only time will tell for sure.
 
- All source code used to arrive at these findings has been provided in this repository. Additional data and charts can be sourced to <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpLixVcCFD8GmWAjFY5C5BZFseND5ywUNTh0fHVOXy6YvlZ1x9FuOqW5aZHH5ZT3HvVxnbtg_Q-rKd/pubhtml">this spreadsheet</a>.
+ All source code used to arrive at these findings has been provided in this repository. Formatted data and charts can be found in <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpLixVcCFD8GmWAjFY5C5BZFseND5ywUNTh0fHVOXy6YvlZ1x9FuOqW5aZHH5ZT3HvVxnbtg_Q-rKd/pubhtml">this spreadsheet</a>.
