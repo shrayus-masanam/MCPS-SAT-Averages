@@ -1,0 +1,134 @@
+{
+    "documents": [
+        {
+            "name": "2021-2022 School Year",
+            "path": "./pdfs/2021-2022.pdf",
+            "nameCoords": {
+                "y": 65,
+                "yMoE": 1
+            },
+            "compositeCoords": {
+                "x": 490.5,
+                "y": 161.5,
+                "xMoE": 1.5,
+                "yMoE": 1.5
+            },
+            "EVBRWCoords": {
+                "x": 203.4,
+                "y": 161.5,
+                "xMoE": 1.5,
+                "yMoE": 1.5
+            },
+            "mathCoords": {
+                "x": 350,
+                "y": 161.5,
+                "xMoE": 1.5,
+                "yMoE": 1.5
+            }
+        },
+        {
+            "name": "2020-2021 School Year",
+            "path": "./pdfs/2020-2021.pdf",
+            "nameCoords": {
+                "y": 65,
+                "yMoE": 1
+            },
+            "compositeCoords": {
+                "x": 490.5,
+                "y": 161.5,
+                "xMoE": 3,
+                "yMoE": 1.5
+            },
+            "EVBRWCoords": {
+                "x": 203.4,
+                "y": 161.5,
+                "xMoE": 1.5,
+                "yMoE": 1.5
+            },
+            "mathCoords": {
+                "x": 350,
+                "y": 161.5,
+                "xMoE": 1.5,
+                "yMoE": 1.5
+            }
+        },
+        {
+            "name": "2019-2020 School Year",
+            "path": "./pdfs/2019-2020.pdf",
+            "nameCoords": {
+                "y": 65,
+                "yMoE": 1
+            },
+            "compositeCoords": {
+                "x": 490.5,
+                "y": 161.5,
+                "xMoE": 3,
+                "yMoE": 1.5
+            },
+            "EVBRWCoords": {
+                "x": 203.4,
+                "y": 161.5,
+                "xMoE": 1.5,
+                "yMoE": 1.5
+            },
+            "mathCoords": {
+                "x": 350,
+                "y": 161.5,
+                "xMoE": 1.5,
+                "yMoE": 1.5
+            }
+        },
+        {
+            "name": "2018-2019 School Year",
+            "path": "./pdfs/2018-2019.pdf",
+            "nameCoords": {
+                "y": 65,
+                "yMoE": 1
+            },
+            "compositeCoords": {
+                "x": 490.5,
+                "y": 161.5,
+                "xMoE": 3,
+                "yMoE": 1.5
+            },
+            "EVBRWCoords": {
+                "x": 203.4,
+                "y": 161.5,
+                "xMoE": 1.5,
+                "yMoE": 1.5
+            },
+            "mathCoords": {
+                "x": 350,
+                "y": 161.5,
+                "xMoE": 1.5,
+                "yMoE": 1.5
+            }
+        },
+        {
+            "name": "2017-2018 School Year",
+            "path": "./pdfs/2017-2018.pdf",
+            "nameCoords": {
+                "y": 46.74,
+                "yMoE": 1
+            },
+            "compositeCoords": {
+                "x": 494.5,
+                "y": 142.62,
+                "xMoE": 3,
+                "yMoE": 3
+            },
+            "EVBRWCoords": {
+                "x": 205.2,
+                "y": 142.62,
+                "xMoE": 1.5,
+                "yMoE": 3
+            },
+            "mathCoords": {
+                "x": 350,
+                "y": 142.62,
+                "xMoE": 3,
+                "yMoE": 3
+            }
+        }
+    ]
+}
