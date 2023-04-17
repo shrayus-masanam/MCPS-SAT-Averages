@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "pdf-table-extractor": "^1.0.3",
     "pdf.js-extract": "^0.2.1"
   }
 }
